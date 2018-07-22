@@ -1,0 +1,47 @@
+.redDot {
+    height: 14px;
+    width: 14px;
+    background-color: #ff2e00;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.greenDot {
+    height: 14px;
+    width: 14px;
+    background-color: #85cc00;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.yellowDot {
+    height: 14px;
+    width: 14px;
+    background-color: #ffbf00;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.redSquare {
+    height: 14px;
+    width: 14px;
+    background-color: #ff2e00;
+    border-radius: 19%;
+    display: inline-block;
+}
+
+.greenSquare {
+    height: 14px;
+    width: 14px;
+    background-color: #85cc00;
+    border-radius: 19%;
+    display: inline-block;
+}
+
+.yellowSquare {
+    height: 14px;
+    width: 14px;
+    background-color: #ffbf00;
+    border-radius: 19%;
+    display: inline-block;
+}

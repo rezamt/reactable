@@ -1,0 +1,48 @@
+
+// import Time from './components/Time'
+// import Counter from './components/Counter'
+// import ActionLink from "./components/ActionLink";
+// import Toggle from "./components/Toggle";
+// import Greeting from "./components/Greetings";
+// import List from "./components/List";
+
+
+/*ReactDOM.render(<div>
+    <Greeting username={"Reza"} isLoggedIn={true} />
+    <Greeting />
+</div>, document.getElementById('root'));*/
+
+/*
+const numbers = [1,2,3,4,5,6,7];
+
+ReactDOM.render(
+    <List numbers = {numbers}/>
+, document.getElementById('root'));
+*/
+
+/*
+
+const chance = new Chance();
+
+
+function getProductsData () {
+    const data = productsData.map(item => {
+        // using chancejs to generate guid
+        // shortid is probably better but seems to have performance issues
+        // on codesandbox.io
+        const id = chance.guid();
+        return {
+            id,
+            ...item
+        };
+    });
+    return data;
+}
+
+const data = getProductsData();
+
+ReactDOM.render(
+        <FilterableProductTable
+            products = { data } />
+    , document.getElementById('root'));
+*/
