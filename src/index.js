@@ -8,12 +8,12 @@ import registerServiceWorker from './registerServiceWorker';
 
 // import Calculator from "./components/Calculator";
 
-import VMScaleSets from './containers/VMScaleSets';
-// import VirtualMachines from "./containers/VirtualMachines";
+// import VMScaleSets from './containers/VMScaleSets';
+import VirtualMachines from "./containers/VirtualMachines";
 
 
 ReactDOM.render(
-        <VMScaleSets />
+        <VirtualMachines />
     , document.getElementById('root'));
 
 registerServiceWorker();
